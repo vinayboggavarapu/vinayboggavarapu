@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinayboggavarapu
 - 👀 I’m a PetrolHead, Content Creator, Web3 Enthusiast
-- 🌱 I’m currently learning Web3 Development
+- 🌱 I'm a Front End Dev , Aspiring Full Stack Web3 Dev
 - 📫 Reach me on twitter @ VinayBoggavarpu
 
 <!---
